@@ -18,7 +18,7 @@ main{
     align-items: center;
     flex-direction: row;
     flex-wrap: wrap;
-    background-color:black;
+    background-color: white;
     width: 100%;
     height: 70px;
     z-index: 999;
@@ -37,7 +37,7 @@ main{
     letter-spacing: 1px;
     font-weight: bold;
     font-size: 35px;
-    color: white;
+    color: black;
   }
   .img1 {
     width: 20%;
@@ -47,7 +47,7 @@ main{
     color: #000;
     text-decoration: none;
     text-transform: uppercase;
-    color: white;
+    color: black;
   }
 
 .nachalo{
