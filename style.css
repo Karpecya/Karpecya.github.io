@@ -846,7 +846,7 @@ transition: 1s;
   height: 360px;
 
   margin-top: 240px;
-  background-image: url(onas.jpg);
+  background-image: url(/onas.jpg);
   background-position: 51%;
   background-size: cover;
 }
