@@ -1445,3 +1445,32 @@ hr{
   margin: 3%;
  margin-left: 10%;
 }
+
+
+
+
+@media screen and (max-width: 600px){
+
+  .thirdblock{
+   max-width: 600px;
+
+  }
+
+  .margl{
+    margin-left: 25%;
+  }
+
+.iconleft{
+  margin-left: 8%;
+}
+
+.copyright{
+  margin-left: -35%;
+}
+
+
+.karp{
+  margin-top: -15%;
+  margin-left: -20%;
+}
+}
