@@ -11,9 +11,6 @@ body, html {
 }
 
 
-
-
-
 .topnav {
   z-index: 999;
   background-color: rgb(255, 255, 255);
@@ -95,6 +92,10 @@ margin-top: 300px;
     max-width: 600px;
   }
 
+.bgp{
+  margin-top: 10%;
+}
+
  .adv{
   display: none;
  }
@@ -105,9 +106,9 @@ margin-top: 300px;
 
  .txt1{
   font-size: 14px;
- width: 400px;
- height: 700px;
- margin-left:5%;
+ max-width: 600px;
+
+ margin-left:8%;
  display: flex;
 flex-wrap: wrap;
 
@@ -123,6 +124,9 @@ flex-wrap: wrap;
  .iconki1{
   width: 30%;
  }
+
+
+
 }
 /* ///// */
 .nachalo1{
@@ -1479,8 +1483,6 @@ hr{
 }
 
 
-
-
 section {
   width: 100%;
   display: inline-block;
@@ -1500,7 +1502,13 @@ section {
   text-align: left;
   font: bold 16px sans-serif;
   padding: 55px 50px;
+  
 }
+
+.ffoot{
+  margin-top: 60%;
+}
+
 
 .footer-distributed .footer-left,
 .footer-distributed .footer-center,
@@ -1657,7 +1665,14 @@ section {
 
   .footer-distributed{
     font: bold 14px sans-serif;
+ 
+
   }
+
+  .margg{
+    margin-top:1850px;
+  }
+
 
   .footer-distributed .footer-left,
   .footer-distributed .footer-center,
@@ -1673,3 +1688,4 @@ section {
   }
 
 }
+
