@@ -1669,7 +1669,7 @@ section {
 @media (max-width: 880px) {
 
   .services{
-  
+  margin-left: 55px;
   flex-direction: column;
 }
 
