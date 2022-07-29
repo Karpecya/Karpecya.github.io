@@ -1668,6 +1668,14 @@ section {
 
 @media (max-width: 880px) {
 
+  .services{
+  
+  flex-direction: column;
+}
+
+
+  
+  
    .margg{
     margin-top:2700;
   }
@@ -1725,6 +1733,3 @@ section {
   margin-top: 2150px;
 }
 
-.ffoott{
-  margin-top: 2150px;
-}
