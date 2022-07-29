@@ -64,6 +64,19 @@ margin-top: 300px;
   }
 }
 
+margin-top: 1620px
+px
+;
+
+
+
+@media screen and (max-width: 1500px) {
+
+  .onih{
+  margin-top: 1620px;
+    
+  }
+}
 
 @media screen and (max-width: 600px) {
   .topnav.responsive {
