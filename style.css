@@ -1668,14 +1668,40 @@ section {
 
 @media (max-width: 880px) {
 
-  .footer-distributed{
-    font: bold 14px sans-serif;
- 
-
+   .margg{
+    margin-top:2700;
   }
 
-  .margg{
-    margin-top:2590px;
+.textrestryk2{
+  margin-top: 1400px;
+}
+
+.parag{
+  width:400px;
+  font-size: 15px;
+  margin-left: -40px;
+}
+
+.photos{
+  width: 370px;
+  margin-left: -40px;
+}
+
+.resttt{
+  margin-left: -40px;
+}
+
+.mmm{
+  width: 400px;
+  margin-left: -40px;
+}
+
+.suda{
+  margin-left: -50px;
+}
+
+  .marggg{
+    margin-top:4550px;
   }
 
 
@@ -1694,3 +1720,11 @@ section {
 
 }
 
+
+.ffoott{
+  margin-top: 2150px;
+}
+
+.ffoott{
+  margin-top: 2150px;
+}
