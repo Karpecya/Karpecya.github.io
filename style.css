@@ -1681,12 +1681,12 @@ section {
   }
 
 .textrestryk2{
-  margin-top: 1400px;
+  margin-top: 1500px;
 }
 
 .parag{
-  width:400px;
-  font-size: 15px;
+  width:380px;
+  font-size: 14px;
   margin-left: -40px;
 }
 
@@ -1711,7 +1711,10 @@ section {
   .marggg{
     margin-top:4550px;
   }
-
+  
+  hr{
+  display:none;
+  }
 
   .footer-distributed .footer-left,
   .footer-distributed .footer-center,
